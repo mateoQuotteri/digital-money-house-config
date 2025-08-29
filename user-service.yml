@@ -1,7 +1,7 @@
 # user-service.yml - Configuración centralizada
 
 server:
-  port: 8081
+  port: 3500
   servlet:
     context-path: /api/v1
   error:
